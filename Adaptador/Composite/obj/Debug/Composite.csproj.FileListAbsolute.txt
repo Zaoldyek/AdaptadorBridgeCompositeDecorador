@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\Adaptador\Composite\obj\Debug\Composite.
 C:\Users\antonio.guillemin\source\repos\Adaptador\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\Adaptador\Composite\obj\Debug\Composite.exe
 C:\Users\antonio.guillemin\source\repos\Adaptador\Composite\obj\Debug\Composite.pdb
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\bin\Debug\Composite.exe.config
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\bin\Debug\Composite.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\bin\Debug\Composite.pdb
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\obj\Debug\Composite.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Composite\obj\Debug\Composite.pdb

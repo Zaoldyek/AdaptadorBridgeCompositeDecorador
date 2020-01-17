@@ -15,6 +15,8 @@ namespace Composite
             Caja caja1 = new Caja("1");
             Caja caja11 = new Caja("1.1");
             Caja caja111 = new Caja("1.1.1");
+            Caja caja12 = new Caja("1.2");
+            Caja caja121 = new Caja("1.2.1");
             Caja caja2 = new Caja("2");
             Caja caja21 = new Caja("2.1");
             Caja caja211 = new Caja("2.1.1");
@@ -28,6 +30,12 @@ namespace Composite
             caja11.addHijo(caja111);
             caja1.addHijo(caja11);
             caja0.addHijo(caja1);
+
+            entPrecio = new entidadPrecio() { iId = 12, precio1 = 12, precio2 = 22, precio3 = 32 };
+            Producto producto12 = new Producto(entPrecio, "1.2.1.1");
+            caja121.addHijo(producto12);
+            caja12.addHijo(caja121);
+            caja1.addHijo(caja12);
 
             entPrecio = new entidadPrecio() { iId = 2, precio1 = 7, precio2 = 8, precio3 = 9 };
             Producto producto2 = new Producto(entPrecio, "2.1.1.1");
