@@ -5,3 +5,10 @@ C:\Users\antonio.guillemin\source\repos\Adaptador\Decorador\obj\Debug\Decorador.
 C:\Users\antonio.guillemin\source\repos\Adaptador\Decorador\obj\Debug\Decorador.exe
 C:\Users\antonio.guillemin\source\repos\Adaptador\Decorador\obj\Debug\Decorador.pdb
 C:\Users\antonio.guillemin\source\repos\Adaptador\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\bin\Debug\Decorador.exe.config
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\bin\Debug\Decorador.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\bin\Debug\Decorador.pdb
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\obj\Debug\Decorador.csproj.CoreCompileInputs.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\obj\Debug\Decorador.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Decorador\obj\Debug\Decorador.pdb
