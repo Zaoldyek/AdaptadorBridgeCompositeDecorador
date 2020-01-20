@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aereo.cs" />
+    <Compile Include="Barco.cs" />
+    <Compile Include="DHL.cs" />
+    <Compile Include="lEmpresas.cs" />
+    <Compile Include="lEnvios.cs" />
+    <Compile Include="Estafeta.cs" />
+    <Compile Include="FEDEXSerice.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Terrestre.cs" />
+    <Compile Include="Tren.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

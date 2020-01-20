@@ -8,3 +8,13 @@ C:\Users\antonio.guillemin\source\repos\Adaptador\Adaptador\obj\Debug\Adaptador.
 C:\Users\antonio.guillemin\source\repos\Adaptador\Adaptador\bin\Debug\Newtonsoft.Json.dll
 C:\Users\antonio.guillemin\source\repos\Adaptador\Adaptador\bin\Debug\Newtonsoft.Json.xml
 C:\Users\antonio.guillemin\source\repos\Adaptador\Adaptador\obj\Debug\Adaptador.csproj.CopyComplete
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\obj\Debug\Adaptador.csprojAssemblyReference.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\obj\Debug\Adaptador.csproj.CoreCompileInputs.cache
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\obj\Debug\Adaptador.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\obj\Debug\Adaptador.pdb
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\bin\Debug\Adaptador.exe.config
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\bin\Debug\Adaptador.exe
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\bin\Debug\Adaptador.pdb
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\bin\Debug\Newtonsoft.Json.dll
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\bin\Debug\Newtonsoft.Json.xml
+C:\Eventos\AdaptadorBridgeCompositeDecorador\Adaptador\Adaptador\obj\Debug\Adaptador.csproj.CopyComplete
